@@ -1,0 +1,2 @@
+# slotbilgi
+slotbilgi
